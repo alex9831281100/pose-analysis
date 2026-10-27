@@ -8,9 +8,9 @@ Open `index.html` from a static web server or deploy the repository with GitHub 
 
 ## Features
 
-- Photo mode: pose landmarks and bilateral elbow, hip, and knee angle estimates.
+- Photo mode: all 33 pose landmarks, a full skeleton overlay, and bilateral elbow, hip, and knee angle estimates. Drag any visible point to manually correct its position; corrected image-plane angles and JSON exports update with the edit.
 - Video mode: local video playback, timestamped pose sampling, angle timeline, and preliminary cadence context.
-- Drag-and-drop upload, capture guidance, confidence indicators, overlay toggle, session clearing, and JSON export.
+- Drag-and-drop upload, capture guidance, confidence indicators, draggable landmark correction, overlay toggle, session clearing, and JSON export.
 - Responsive Traditional Chinese interface.
 
 ## Limits
